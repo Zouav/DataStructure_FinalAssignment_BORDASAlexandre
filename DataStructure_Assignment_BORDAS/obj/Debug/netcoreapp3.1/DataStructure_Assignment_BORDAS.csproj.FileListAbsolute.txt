@@ -1,0 +1,11 @@
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.exe
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.deps.json
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.runtimeconfig.json
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.dll
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\bin\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.pdb
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\obj\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\obj\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\obj\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.AssemblyInfo.cs
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\obj\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.dll
+C:\Users\alexa\source\repos\DataStructure_Assignment_BORDAS\obj\Debug\netcoreapp3.1\DataStructure_Assignment_BORDAS.pdb
